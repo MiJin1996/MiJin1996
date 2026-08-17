@@ -15,7 +15,7 @@
 <br>
 <code>Erasing and rebuilding, erasing and rebuilding,</code>
 <br>
-<code>repeatedly organizing—that’s my hobby and my job.</code>
+<code>repeatedly organizings are my hobby.</code>
 <br>
 <code>So I only have a few repositories left</code>
 
