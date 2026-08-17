@@ -1,9 +1,15 @@
-## Hi there 👋
+<div align="center">
 
+# Hi, I'm MiJin 👋
 
+<img
+  src="https://media.giphy.com/media/LPFNd1AJBoYcVUExmE/giphy.gif"
+  width="480"
+  alt="MiJin 소개 GIF"
+/>
 
-<div align= "center">
-    
-        </div>
-         <a href=mailto:mailto:itsjinmi@gmail.com> <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:mailto:itsjinmi@gmail.com"> </a>
-        </div>
+<br><br>
+
+### 사용자에게 도움이 되는 서비스를 만드는 개발자입니다
+
+</div>
