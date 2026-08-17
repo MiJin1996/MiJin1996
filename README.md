@@ -6,11 +6,11 @@
   width="150"
   alt="MiJin 소개 GIF"
 />
-<br><br>
+<br><br><br><br>
 <code>I just started to lean C, C#, java, little bit C++.</code>
 <br>
 <code>VeryVeryInterest!</code>
-
+<br><br>
 <br>
 <code>Erasing and rebuilding, erasing and rebuilding,</code>
 <br>
