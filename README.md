@@ -8,6 +8,6 @@
 <br><br>
 <code>I just started to lean C, C#, java, little bit C++.</code>
 <br>
-<code>VeryVery Interesting! -v-b </code>
+<code>VeryVeryInterest! -v-b </code>
 
 </div>
