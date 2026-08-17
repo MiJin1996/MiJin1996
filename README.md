@@ -1,6 +1,6 @@
 <div align="center">
 
-<img  src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3YzFiYm5yd2g3c2JndDF4OXo3MzdqeXR2aW41Z2hza3pqbnBmempiaSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/1BbZRm4wTQzF1nW6z1/giphy.gif"
+<img  src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3kzNjE1dHRiaHMwcGtlbW95Z2RjNmJoNWc0OHVuenZraXdkNWN2aSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/9w7YtTycjeLzW8V6io/giphy.gif"
   hight="250"
   alt="MiJin 소개 GIF"
 />
