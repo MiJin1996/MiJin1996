@@ -17,7 +17,7 @@
 <br>
 <code>repeatedly organizings are my hobby.</code>
 <br>
-<code>SoOnlyFewRepositoriesLeft</code>
+<code>SoOnlyFewRPLeft</code>
 
 </div>
 
