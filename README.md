@@ -7,9 +7,12 @@
 />
 
 <br><br>
-
+<code>
 'I just started to lean languages C, C#, java, and little bit C++.'
+<code>
+<code>
 'Hope I can be Senior-level of developer. yey 'v'b'
+<code>
 
 
 </div>
