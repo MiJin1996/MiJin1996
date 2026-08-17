@@ -8,6 +8,8 @@
 
 <br><br>
 
-I hope i can be a senior
+I just started to lean languages C, C#, java, and little bit C++. 
+Hope I can be Senior-level of developer. thx to visit :]
+
 
 </div>
