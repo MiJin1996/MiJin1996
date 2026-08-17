@@ -6,7 +6,7 @@
 />
 
 <br><br>
-<code>I just started to lean languages C, C#, java, and little bit C++.</code>
+<code>I just started to lean C, C#, java, little bit C++.</code>
 <br>
 <code>Hope I can be Senior-level of developer. yey 'v'b </code>
 
