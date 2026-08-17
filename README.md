@@ -6,7 +6,7 @@
   alt="MiJin 소개 GIF"
 />
 
-<br><br>
+
 <code>
 'I just started to lean languages C, C#, java, and little bit C++.'
 <code>
