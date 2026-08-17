@@ -1,7 +1,7 @@
 <div align="center">
 
 <img  src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3kzNjE1dHRiaHMwcGtlbW95Z2RjNmJoNWc0OHVuenZraXdkNWN2aSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/9w7YtTycjeLzW8V6io/giphy.gif"
-  width="200"
+  width="100"
   alt="MiJin 소개 GIF"
 />
 
